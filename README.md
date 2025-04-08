@@ -26,26 +26,26 @@ This is a simple **CRUD (Create, Read, Update, Delete)** API for managing recipe
 - Success Response: 201 Created
 
 2.  Get All Recipes
-URL: /api/recipes
-Method: GET
-Success Response: 200 OK
+- URL: /api/recipes
+- Method: GET
+- Success Response: 200 OK.
 Returns an array of recipes.
 
 3.  Get Recipe by ID
-URL: /api/recipes/:id
-Method: GET
-Success Response: 200 OK
+- URL: /api/recipes/:id
+- Method: GET
+- Success Response: 200 OK.
 Returns a single recipe object.
 
 4.  Update Recipe by ID
-URL: /api/recipes/:id
-Method: PUT
-Success Response: 200 OK
+- URL: /api/recipes/:id
+- Method: PUT
+- Success Response: 200 OK
 
 5.  Delete Recipe by ID
-URL: /api/recipes/:id
-Method: DELETE
-Success Response: 200 OK
+- URL: /api/recipes/:id
+- Method: DELETE
+- Success Response: 200 OK
 
 
 
