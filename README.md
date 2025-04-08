@@ -1,6 +1,8 @@
 ## Recipe API
 This is a simple **CRUD (Create, Read, Update, Delete)** API for managing recipes, built with **Node.js**, **Express.js**, and **MongoDB (Mongoose)** using the **MVC pattern**.
 
+##  Live API : **[https://recipe-api-1x7e.onrender.com/api/recipes]
+
 ## Features :
 - Create a new recipe
 - Get all recipes
