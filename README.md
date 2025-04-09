@@ -3,6 +3,8 @@ This is a simple **CRUD (Create, Read, Update, Delete)** API for managing recipe
 
 ##  Live API : **[https://recipe-api-1x7e.onrender.com/api/recipes]
 
+## API Documentation : **[https://documenter.getpostman.com/view/43821162/2sB2cX91gZ]
+
 ## Features :
 - Create a new recipe
 - Get all recipes
